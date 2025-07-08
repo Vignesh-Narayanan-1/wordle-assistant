@@ -12,11 +12,9 @@ A simple, clean web app that helps you solve Wordle smarter and faster!
 8. Repeat this for each of your 6 attempts — previous guesses are stored and visualized! ENJOY WORDLING!
 
 🎯 Built with:
-HTML, CSS, and JS
-
-Glacial Indifference font
-
-GitHub Pages for deployment
+* HTML, CSS, and JS
+* Glacial Indifference font
+* GitHub Pages for deployment
 
 Dark mode + mobile optimized. Try it out here:
 🔗 https://.github.io/wordle-helper/
