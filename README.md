@@ -16,5 +16,5 @@ A simple, clean web app that helps you solve Wordle smarter and faster!
 * Glacial Indifference font
 * GitHub Pages for deployment
 
-Dark mode + mobile optimized. Try it out here:
-🔗 https://.github.io/wordle-helper/
+Light/Dark mode + mobile optimized. Try it out here:
+🔗 https://vignesh-narayanan-1.github.io/wordle-assistant/
