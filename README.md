@@ -13,7 +13,9 @@ A simple, clean web app that helps you solve Wordle smarter and faster!
 
 🎯 Built with:
 HTML, CSS, and JS
+
 Glacial Indifference font
+
 GitHub Pages for deployment
 
 Dark mode + mobile optimized. Try it out here:
